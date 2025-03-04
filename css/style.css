@@ -186,7 +186,7 @@ h4,
 h5,
 h6 {
     color: #2c3033;
-    font-family: "Playfair Display", serif;
+    font-family: "roboto", sans-serif;
 }
 
 /* line 99, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_common.scss */
@@ -4455,7 +4455,7 @@ h6 {
 
 /* line 71, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_review.scss */
 .review_part .client_review_single .client_review_text h4 span {
-    font-family: "Playfair Display", serif;
+    font-family: "roboto", sans-serif;
     font-size: 14px;
     color: #555555;
 }
